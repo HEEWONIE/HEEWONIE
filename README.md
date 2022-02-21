@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HEEWONIE
 - 👀 I’m interested in ... now computer programming with JAVA
-- 🌱 I’m currently learning ... JAVA, JSP, HTML, CSS 
+- 🌱 I’m currently learning ... JAVA, JSP, HTML, CSS, SPRING,
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... just known by blogs
 
